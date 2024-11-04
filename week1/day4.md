@@ -1,4 +1,4 @@
-# Day3
+# Day4
 
 **[문제1](#숫자-문자열과-영단어-): [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)**  
 **[문제2](#의상-): [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)**

@@ -1,4 +1,4 @@
-# Day3
+# Day5
 
 **문제: [모스 부호](https://www.acmicpc.net/problem/29701)**
 
