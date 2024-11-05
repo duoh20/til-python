@@ -1,5 +1,10 @@
 # til-python
 
+
+### week2
+- [day8 : 문자열, 해시](https://github.com/duoh20/til-python/blob/main/week2/day8.md)
+
+
 ### week1
 - [day7 : 문자열, 해시 테이블](https://github.com/duoh20/til-python/blob/main/week1/day7.md)
 - [day6 : 문자열, 해시 테이블](https://github.com/duoh20/til-python/blob/main/week1/day6.md)
