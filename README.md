@@ -1,7 +1,8 @@
 # til-python
 
 ### week2
-- [day12 : Array](https://github.com/duoh20/til-python/blob/main/week2/day12.md)
+- [day13 : 스택](https://github.com/duoh20/til-python/blob/main/week2/day13.md)
+- [day12 : 스택](https://github.com/duoh20/til-python/blob/main/week2/day12.md)
 - [day11 : 문자열, 해시](https://github.com/duoh20/til-python/blob/main/week2/day11.md)
 - [day10 : 문자열, 해시](https://github.com/duoh20/til-python/blob/main/week2/day10.md)
 - [day9 : 문자열, 뒤집기](https://github.com/duoh20/til-python/blob/main/week2/day9.md)
