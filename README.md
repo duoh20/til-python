@@ -1,5 +1,8 @@
 # til-python
 
+### week3
+- [day15 : 스택/큐](https://github.com/duoh20/til-python/blob/main/week3/day15.md)
+
 ### week2
 - [day14 : 스택/큐](https://github.com/duoh20/til-python/blob/main/week2/day14.md)
 - [day13 : 스택](https://github.com/duoh20/til-python/blob/main/week2/day13.md)
