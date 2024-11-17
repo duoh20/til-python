@@ -1,6 +1,7 @@
 # til-python
 
 ### week3
+- [day20 : 힙](https://github.com/duoh20/til-python/blob/main/week3/day20.md)
 - [day19 : 힙](https://github.com/duoh20/til-python/blob/main/week3/day19.md)
 - [day17 : 스택/큐](https://github.com/duoh20/til-python/blob/main/week3/day17.md)
 - [day16 : 스택/큐](https://github.com/duoh20/til-python/blob/main/week3/day16.md)
